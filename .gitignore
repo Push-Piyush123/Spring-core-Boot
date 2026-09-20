@@ -1,0 +1,18 @@
+# Java
+*.class
+
+# Maven
+target/
+
+# Eclipse
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Environment files
+.env
